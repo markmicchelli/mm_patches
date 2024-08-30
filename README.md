@@ -1,4 +1,4 @@
-# mm_patchers
+# mm_patches
 
 This folder contains the contents of my Max 8 Library, featuring abstractions
 and bpatchers I use to develop my Max Projects.
