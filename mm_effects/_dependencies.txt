@@ -1,0 +1,23 @@
+freeze_delay~
+- granubuf~ [in subpatcher] (Tilde)
+
+freeze~
+- granubuf~ (Tilde)
+
+fuzz~
+- fiddle~
+
+glitch_delay~
+- supervp.scrub~ (SuperVP)
+
+inversion~
+- supervp.ring~ [in subpatcher] (SuperVP)
+
+munge~
+- munger~ (Percolate)
+
+pitch_shift~
+- supervp.ring~ (SuperVP)
+
+timestretch_delay~
+- supervp.ring~ (SuperVP)
